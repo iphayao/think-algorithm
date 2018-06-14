@@ -1,1 +1,1 @@
-# think-algorithm
+# Think Algorithm
