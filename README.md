@@ -4,14 +4,16 @@ This repository inspires from [JavaScript Algorithm](https://github.com/trekhleb
 
 ## Data Structures
 
-* Linked List
+* Arrays
+* List
 * Queue
 * Stack
-* Hash Table
-* Heap
 * Priority Queue
-* Trie
+* Binary Tree
+* B-tree
+* Heap
 * Tree
+* Hash
 * Graph
 
 ## Algorithms
